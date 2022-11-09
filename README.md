@@ -1,3 +1,3 @@
 # QuizS5
 
-![My Image](../images/quiz.jpeg)
+![My Image](images/quiz.jpg)
