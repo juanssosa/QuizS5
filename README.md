@@ -1,3 +1,3 @@
 # QuizS5
 
-![alt text](http://url/to/quiz.jpeg]
+![alt text](http://url/to/quiz.jpeg)
