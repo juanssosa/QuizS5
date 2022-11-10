@@ -1,2 +1,3 @@
 # QuizS5
-api en master branch
+Api en master branch
+<h1><center>Parte 1: Teorica</center></h1>
