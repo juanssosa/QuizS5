@@ -12,6 +12,6 @@ Api en master branch
 <h2>b.</h2>
 <h2>c.</h2>
 <h2>d.</h2>
-<h1>Punto 2</h1>
-<h1>Punto 3</h1>
-<h1>Punto 4</h1>
+<h1 align="center">Punto 2</h1>
+<h1 align="center">Punto 3</h1>
+<h1 align="center">Punto 4</h1>
