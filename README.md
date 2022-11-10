@@ -20,9 +20,13 @@ Una de las ventajas de usar webservices es la facilidad de su uso, ya que como e
 <h2>c.</h2>
 <h2>d.</h2>
 <h1>Punto 3</h1>
+
 Norte-Sur
+
 *Los controladores de una REST API puden ser un tipo de trafico norte-sur 
+
 *En un navegador la peticion del usuario puede ser trafico sur, y la respuesta del servidor es de tipo norte
+
 Este-Oeste
 *
 *
