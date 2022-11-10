@@ -1,7 +1,7 @@
 # QuizS5 👨‍💻
 ***
 
-<h1 align="center">Parte 2: Practica</h1>
+<h1 align="center">Parte 2: Practica - Pokemones</h1>
 
 ***
 
