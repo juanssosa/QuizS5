@@ -5,7 +5,7 @@ Api en master branch
 
 ***
 <p align="center">
-    ![ParteTeoricaQuiz](https://user-images.githubusercontent.com/112618198/200992609-7f4afe40-934e-46fd-bd2f-d0df4f6a855d.png)
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://user-images.githubusercontent.com/112618198/200992609-7f4afe40-934e-46fd-bd2f-d0df4f6a855d.png)" alt="Material Bread logo">
 </p>
 
 
