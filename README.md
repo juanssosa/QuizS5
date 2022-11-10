@@ -21,15 +21,17 @@ Una de las ventajas de usar webservices es la facilidad de su uso, ya que como e
 
 <h2>b.</h2>
 
+![pros](https://user-images.githubusercontent.com/112618198/201032169-5cae9ce4-60d4-4d0a-ab90-c21c7139b0bf.png)
 
 
 <h2>c.</h2>
 
+![quienlousa](https://user-images.githubusercontent.com/112618198/201028725-912a3e94-adf8-4d45-80d7-74610fabce91.png)
 
 
 <h2>d.</h2>
 
-
+Hay unas web APIs que si podrian trabajar en un mismo proyecto, pero hay otras en las que no hay tanta similitud
 
 <h1>Punto 3</h1>
 
