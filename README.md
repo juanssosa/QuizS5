@@ -37,5 +37,11 @@ Este-Oeste
 
 <h1>Punto 4</h1>
 
+* Productividad: 
+Para el entorno empresarial, docker puede llegar a ser altamente productivo, ya que se esta manejando como un estandar, su uso tiende a familiarizarse mas en las empresas, haciendo que los equipos de trabajo, trabajen en diferentes entornos de produccion
 
+* Despliegue rapido:+
+Esta es la mayor ventaja que presenta docker para el despliegue de aplicaciones, ya que como no inicia un sistema operativo entero, solo hace uso de cada proceso que se necesite en el despliegue
 
+* Aislamiento:
+Docker asegura que los contenedores esten completamente apartados unos de otros, esto para garantizar que los recursos de cada uno de los contenedores se aislen de cada uno, esto tambien representa que la seguridad que se maneja sea buena. Debido a este ailamiento, la eliminacion de las aplicaciones se torna mas facil, ya que se asegura que al quitarlas, esta sea de una manera limpia, sin tener que preocuparse por las otras aplicaciones
