@@ -1,3 +1,3 @@
 # QuizS5
 
-![quiz](https://user-images.githubusercontent.com/112618198/200758785-002a82c4-f86d-42b0-9393-f2688d24a96f.jpg)
+![PartePracticaQuiz](https://user-images.githubusercontent.com/112618198/200998261-18ce8c49-00d8-4fed-b682-2ad7de9a0533.png)
