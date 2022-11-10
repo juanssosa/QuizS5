@@ -25,10 +25,17 @@ Norte-Sur
 
 * Los controladores de una REST API puden ser un tipo de trafico norte-sur 
 
-*En un navegador la peticion del usuario puede ser trafico sur, y la respuesta del servidor es de tipo norte
+* En un navegador la peticion del usuario puede ser trafico sur, y la respuesta del servidor es de tipo norte
 
 Este-Oeste
-*
-*
-*
+
+* Microservicios y comuncaciones API
+
+* Una red LAN comunicandose con un servidor
+
+* Routers intercambiando informacion
+
 <h1>Punto 4</h1>
+
+
+
