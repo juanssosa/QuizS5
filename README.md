@@ -16,9 +16,21 @@ Una de las ventajas de usar webservices es la facilidad de su uso, ya que como e
 
 <h1>Punto 2</h1>
 <h2>a.</h2>
+
+![diferencias](https://user-images.githubusercontent.com/112618198/201024170-a1b2bcd4-77ed-4eaf-a4bf-07f08223ab9a.png)
+
 <h2>b.</h2>
+
+
+
 <h2>c.</h2>
+
+
+
 <h2>d.</h2>
+
+
+
 <h1>Punto 3</h1>
 
 Norte-Sur
